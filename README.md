@@ -17,4 +17,21 @@ This repository contains C programs focused on **string manipulation** — inclu
 ---
 
 ## ✨ Features  
-- Reading and pri
+- Reading and printing strings  
+- String concatenation  
+- String comparison  
+- Finding string length  
+- Other basic string operations
+
+---
+
+## 🚀 How to Run  
+
+```bash
+# Clone the repository
+git clone https://github.com/nitin-0-7/strings.git
+cd strings
+
+# Compile & run (replace filename.c)
+gcc filename.c -o output
+./output
